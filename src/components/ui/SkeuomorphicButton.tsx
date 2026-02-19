@@ -98,7 +98,7 @@ export function SkeuomorphicButton({
       />
 
       {/* Content */}
-      <span className="relative z-10 text-white">{children}</span>
+      <span className="relative z-10 text-white flex items-center justify-center gap-2">{children}</span>
     </>
   );
 

@@ -11,7 +11,7 @@ export function AboutSection() {
     <section id="about" className="px-6 md:px-16 py-28 max-w-6xl mx-auto relative">
       <SectionHeader
         label="About Me"
-        title="Building intelligent systems<br/>from the ground up"
+        title="Dedicated to building<br/>reliable software"
       />
       <StaggerContainer staggerDelay={0.1}>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-start">
