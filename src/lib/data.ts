@@ -15,7 +15,7 @@ export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/dev-dharshan-85b357320/",
   leetcode: "https://leetcode.com/u/_Devdharshan/",
   resume:
-    "https://drive.google.com/file/d/1iSPFbOBr6l3M5LHkleMTDBGXqfhFPnK7/view",
+    "https://drive.google.com/file/d/1tYrtkggxEWxxJgIib_xgu1rMnarLu0mP/view",
 };
 
 export const STATS = [
